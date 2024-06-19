@@ -2,3 +2,4 @@
 *.csv
 /images
 .env
+*.jpg
